@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pcla-app/static/css/main.80c9cdca.chunk.css",
+    "main.js": "/pcla-app/static/js/main.a40dcfc0.chunk.js",
+    "main.js.map": "/pcla-app/static/js/main.a40dcfc0.chunk.js.map",
+    "runtime-main.js": "/pcla-app/static/js/runtime-main.7ad3d26d.js",
+    "runtime-main.js.map": "/pcla-app/static/js/runtime-main.7ad3d26d.js.map",
+    "static/js/2.42a46577.chunk.js": "/pcla-app/static/js/2.42a46577.chunk.js",
+    "static/js/2.42a46577.chunk.js.map": "/pcla-app/static/js/2.42a46577.chunk.js.map",
+    "index.html": "/pcla-app/index.html",
+    "precache-manifest.3f33b9527fe580dc377171f3f76e93bd.js": "/pcla-app/precache-manifest.3f33b9527fe580dc377171f3f76e93bd.js",
+    "service-worker.js": "/pcla-app/service-worker.js",
+    "static/css/main.80c9cdca.chunk.css.map": "/pcla-app/static/css/main.80c9cdca.chunk.css.map",
+    "static/js/2.42a46577.chunk.js.LICENSE.txt": "/pcla-app/static/js/2.42a46577.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad3d26d.js",
+    "static/js/2.42a46577.chunk.js",
+    "static/css/main.80c9cdca.chunk.css",
+    "static/js/main.a40dcfc0.chunk.js"
+  ]
+}
